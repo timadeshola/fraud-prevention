@@ -1,0 +1,22 @@
+
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ï˜ó¤8æÿŸê™-
+"squid:ClassVariableVisibilityCheck"SMake highers a static final constant or non-public and provide accessors if needed.(ÜŒÜåüÿÿÿÿ8³šñé™-
+esquid:S2184E"BCast one of the operands of this division operation to a "double".(ª² “úÿÿÿÿ8ñ¤öé™-
+9squid:S3626-"Remove this redundant jump.(ÉŠ©ƒ8æÿŸê™-
+Dsquid:S2129S"!Remove this "Integer" constructor(®É‹ïÿÿÿÿÿ8³šñé™-
+lsquid:S2153S"IRemove the boxing to "Integer"; The argument is already of the same type.(®É‹ïÿÿÿÿÿ8³šñé™-
+Msquid:S1066/"/Merge this if statement with the enclosing one.(àñ«8æÿŸê™-
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(”äÙóýÿÿÿÿ8¢´ê™-
+Usquid:S2589."7Remove this expression which always evaluates to "true"(ƒÚÌ†8æÿŸê™-
+?squid:S2129U"!Remove this "Integer" constructor(—Šå8³šñé™-
+gsquid:S2153U"IRemove the boxing to "Integer"; The argument is already of the same type.(—Šå8³šñé™-
+Osquid:S1444",Make this "public static lowers" field final(™Â¡úÿÿÿÿ8³šñé™-
+Œ"squid:ClassVariableVisibilityCheck"RMake lowers a static final constant or non-public and provide accessors if needed.(™Â¡úÿÿÿÿ8³šñé™-
+@squid:S2386"Make this member "protected".(™Â¡úÿÿÿÿ8³šñé™-
+Psquid:S1444"-Make this "public static highers" field final(ÜŒÜåüÿÿÿÿ8³šñé™-
+Usquid:S2589%"7Remove this expression which always evaluates to "true"(ƒÚÌ†8æÿŸê™-
+@squid:S2386"Make this member "protected".(ÜŒÜåüÿÿÿÿ8³šñé™-
+Usquid:S2589P"7Remove this expression which always evaluates to "true"(êŸï¸8áçùé™-
+asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÿ¤ž‘øÿÿÿÿ8³šñé™-
