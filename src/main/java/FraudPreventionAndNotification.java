@@ -12,13 +12,16 @@ public class FraudPreventionAndNotification {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number:: ");
         int number = sc.nextInt();
+        System.out.println("Enter the day:: ");
         int day = sc.nextInt();
 
         List<Integer> list = new ArrayList<>();
         long notificationCount = 0;
 
         for(int i=0; i<number; i++) {
+            System.out.println("Enter value:: ");
             int x = sc.nextInt();
             list.add(x);
             int first = -1;
@@ -39,7 +42,7 @@ public class FraudPreventionAndNotification {
             }
         }
 
-        System.out.println(notificationCount);
+        System.out.println("Notification Count ==> " + notificationCount);
     }
 
     public static void addNumber(int number, PriorityQueue<Integer> lower, PriorityQueue<Integer> upper)
@@ -90,8 +93,6 @@ public class FraudPreventionAndNotification {
             calculateBalance(lowerPriorityQueue, higherPriorityQueue);
             return median;
         }
-
-
         return 0.0;
     }
 }
